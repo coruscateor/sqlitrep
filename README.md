@@ -1,4 +1,4 @@
-sqlitrep is a  command line programme for working with SQLite database files.
+sqlitrep is a command line programme for working with SQLite database files.
 
 Depends on the CoreComponents, SQLiteConnector and dbrep projects.
 
